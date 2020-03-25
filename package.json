@@ -1,5 +1,5 @@
 {
-  "name": "elm_web_component",
+  "name": "elm_web_components",
   "version": "1.0.0",
   "description": "Web components wrapper which inspired by the Elm Architecture.",
   "main": "index.js",

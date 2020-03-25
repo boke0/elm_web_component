@@ -31,6 +31,7 @@ component("cmp-test", {
 </head>
 <body>
   <cmp-test data-name="わん" data-description="にゃー"></cmp-test>
+  <script src="main.js"></script>
 </body>
 </html>
 ```

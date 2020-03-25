@@ -1,0 +1,24 @@
+{
+  "name": "elm_web_component",
+  "version": "1.0.0",
+  "description": "Web components wrapper which inspired by the Elm Architecture.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boke0/elm_web_components.git"
+  },
+  "keywords": [
+    "Elm",
+    "Web",
+    "Components"
+  ],
+  "author": "木瓜丸",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/boke0/elm_web_components/issues"
+  },
+  "homepage": "https://github.com/boke0/elm_web_components#readme"
+}
